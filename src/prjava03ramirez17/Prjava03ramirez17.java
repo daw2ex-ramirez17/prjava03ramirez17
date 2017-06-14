@@ -66,9 +66,9 @@ public class Prjava03ramirez17 extends Frame
 
 
 
-      setTitle("prjava03cognom17");  // "this" Frame sets title
+      setTitle("nova finestra prjava03cognom17");  // "this" Frame sets title
 
-      setSize(250, 100);        // "this" Frame sets initial size
+      setSize(450, 100);        // "this" Frame sets initial size
 
       setVisible(true);         // "this" Frame shows
 
